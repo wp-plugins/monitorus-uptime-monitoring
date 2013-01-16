@@ -1,0 +1,152 @@
+.hidden
+{
+	display: none !important;
+}
+.wpmuc.h2
+{
+    /*padding: 15px !important;*/
+    font-size: 20px;
+    /*border-color: #FEFEFE ;*/
+}
+
+.wpmuc.message
+{
+    color: #333;
+    border-color:#E6DB55;
+
+    background-color: #ffffe0;
+    padding: 0 .6em;
+    margin: 5px 0 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    font-family: sans-serif;
+}
+
+.wpmuc.chart
+{
+    background-position: -528px 0px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    float: left;
+
+}
+
+.wpmuc.table
+{
+    background-position: -560px 0px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    float: left;
+}
+
+.wpmuc.pie
+{
+    background-position: -1027px 0px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    float: left;
+}
+
+.wpmuc.time
+{
+    background-position: -144px -2px;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    float: left;
+}
+
+.wpmuc.monitors-icons.backend {
+    padding: 5px;
+}
+
+.wpmuc.monitors-icons.frontend {
+    border-bottom: 1px #eee solid;
+    margin-bottom: 5px;
+}
+
+.wpmuc.monitors-icons span {
+    float: left;
+    padding: 1px 4px 2px 0px;
+    cursor: pointer;
+}
+
+.wpmuc.location
+{
+    background-color: #f1f1f1;
+    padding: 0px 3px 0px 3px;
+    cursor: pointer;
+
+}
+
+.wpmuc.location.selected
+{
+    background-color: #f1f1f1;
+    padding: 0px 3px 0px 3px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #dfdfdf;
+
+}
+
+.wpmuc.width
+{
+    width: 400px;
+}
+
+.wpmuc.chart.selected
+{
+    background-color: #ffffff;
+}
+
+.wpmuc.table.selected
+{
+    background-color:  #ffffff;
+}
+
+.wpmuc.pie.selected
+{
+    background-color:  #ffffff;
+}
+
+.wpmuc.time.selected
+{
+    background-color:  #ffffff;
+}
+/*.wpmuc.table
+{
+    border : 0;
+    cellpadding : 0;
+    cellspacing : 0;
+}*/
+.highcharts-tooltip
+{
+    z-index: 9999;
+}     
+
+div#highchart-location span, div#highchart-location-pie span
+{
+	font-size:10px;
+}
+#signup_link, #signin_link{
+ cursor: pointer;
+}
+#chart_settings_table{
+   border-collapse: collapse;
+   border-spacing: 0;
+}
+#chart_settings_table td{
+	height: 30px;
+
+}
+#chart_settings_table select{
+	width: 95px;
+	background-color: #EEEEEE;
+    border-color:#ABABAB;
+    color: #333333;
+}
+
