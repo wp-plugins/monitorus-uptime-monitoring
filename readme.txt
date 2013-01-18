@@ -23,7 +23,7 @@ Plug-in provides possibility to monitor your site using Monitor.Us free monitori
 
 == Screenshots ==
 
-1. /assets/dashboard_view.png
-2. /assets/monitors_view.png
-3. /assets/settings_page.png
+1. Settings page
+2. Uptime  and Page Load monitors on the admin dashboard
+3. Uptime  and Page Load widgets on blog main page
 
