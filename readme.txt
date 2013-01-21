@@ -17,9 +17,6 @@ This plug-in also provides possibility to monitor your website directly from the
 
 Check results will be obtained from Monitor.Us by [REST API](http://www.monitor.us/api/api.html?adv=13812&loc=1).
 
-About Monitor.Us
-Monitor.Us is the free version of Monitis, the leading provider of web and cloud monitoring solutions that include website monitoring, site load testing, transaction monitoring, application and database monitoring and server and internal network monitoring within one easy-to-use dashboard. Over 100,000 users worldwide have chosen Monitis as their provider of choice to increase uptime and user experience of their services and products. For more information please visit [www.monitis.com](http://monitis.com?adv=13812&loc=1)
-
 == Installation ==
 
 Installing your Monitor.Us Website Monitoring plug-in can easily be done in 3 steps:
