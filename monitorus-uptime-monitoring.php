@@ -1,11 +1,11 @@
 <?php
 /*
 	Plugin Name: Monitor.us uptime monitoring
-	Plugin URI: http://www.monitor.us
-	Description: Show everyone how stable and fast your blog is with independent authoritative professional monitoring service. Check how really stable you blog hosting is. Be the first to know when your blog is down or slow. The plug-in periodically measures your blog's main page load and uptime monitoring from checkpoints in US and EU. The measurement results are available on clean and clear charts integrated into your WordPress admin dashboard or directly on your blog main page.
+	Plugin URI: http://www.monitor.us?adv=13812&loc=1
+	Description: Free Website Monitoring plug-in from Monitor.Us enables you to monitor your blog so you know instantly if it down or running slowly and displays results from a web-based dashboard.
 	Version: 1.0
 	Author: MonitorUs	 
-	Author URI: http://www.monitor.us
+	Author URI: http://www.monitor.us?adv=13812&loc=1
 */
 
 // <<<<<<<<<<<< includes --------------------------------------------------

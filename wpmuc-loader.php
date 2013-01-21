@@ -320,10 +320,10 @@ class WPMUC_Loader
     public static function badgesBelow($id='')
     {
 
-        $data[] = "<a href='http://monitor.us/?ref=button1'><img src='http://images.monitor.us/monbadges100-90.png' title='Website Monitoring - Monitor.Us' alt='Free Website Monitoring from Monitor.Us' border=0 /></a>";
-        $data[] = "<a href='http://monitor.us/?ref=button2'><img src='http://images.monitor.us/monbadges120-40.png' title='Network Monitoring - Monitor.Us' alt='Free Network Monitoring from Monitor.Us' border=0 /></a>";
-        $data[] = "<a href='http://monitor.us/?ref=button3'><img src='http://images.monitor.us/monbadgesWhiteBG100-90.png' title='Server Monitoring - Monitor.Us' alt='Free Server Monitoring from Monitor.Us' border=0 /></a>";
-        $data[] = "<a href='http://monitor.us/?ref=button4'><img src='http://images.monitor.us/monbadgesWhiteBG120-40.png' title='Systems Monitoring - Monitor.Us' alt='Free Systems Monitoring from Monitor.Us' border=0 /></a>";
+        $data[] = "<a href='http://monitor.us?ref=button1&adv=13812&loc=1'><img src='http://images.monitor.us/monbadges100-90.png' title='Website Monitoring - Monitor.Us' alt='Free Website Monitoring from Monitor.Us' border=0 /></a>";
+        $data[] = "<a href='http://monitor.us?ref=button2&adv=13812&loc=1'><img src='http://images.monitor.us/monbadges120-40.png' title='Network Monitoring - Monitor.Us' alt='Free Network Monitoring from Monitor.Us' border=0 /></a>";
+        $data[] = "<a href='http://monitor.us?ref=button3&adv=13812&loc=1'><img src='http://images.monitor.us/monbadgesWhiteBG100-90.png' title='Server Monitoring - Monitor.Us' alt='Free Server Monitoring from Monitor.Us' border=0 /></a>";
+        $data[] = "<a href='http://monitor.us?ref=button4&adv=13812&loc=1'><img src='http://images.monitor.us/monbadgesWhiteBG120-40.png' title='Systems Monitoring - Monitor.Us' alt='Free Systems Monitoring from Monitor.Us' border=0 /></a>";
         if ($id!=='')
         {
             return $data[$id-1];

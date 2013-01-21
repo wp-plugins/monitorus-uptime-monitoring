@@ -1,21 +1,28 @@
 === Monitor.Us uptime monitoring ===
 Contributors: monitor.us
 Donate link: 
-Tags: website monitoring, uptime monitoring 
+Tags: website monitoring, uptime monitoring, full page load monitoring
 Requires at least: 3.3
 Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Free website monitoring plug-in. Be the first to know when your blog is down or slow. See the results on admin dashboard or on the site main page.
+Free Website Monitoring plug-in from Monitor.Us – monitor your blog’s uptime and performance 24/7 and see results in a web-based dashboard.
 
 == Description ==
+With the Free Website Monitoring plug-in from Monitor.Us you can ensure that you are the first to know when your blog is down or running slowly. You can also show everyone how stable and fast your blog is with our independent monitoring service.
+The plug-in periodically measures your blog's main page load time and uptime from checkpoints in North America and Europe. The results are available in chart form either from the Monitor.US web-based dashboard or from your WordPress admin dashboard.
+This plug-in also provides possibility to monitor your website directly from the plug-in settings page. Uptime and full page load monitors will be automatically created and placed on your website dashboard with default alert/notification settings. Checks will run every 30 minutes from locations in North America and Europe. You can also log-in to your Monitor.Us dashboard to have a unified view of all monitored websites/blogs and to view or amend notification settings.
 
-Show everyone how stable and fast your blog is with independent authoritative professional monitoring service. Be the first to know when your blog is down or slow. The plug-in periodically measures your blog's main page load and uptime monitoring from checkpoints in US and EU. The measurement results are available on clean and clear charts integrated into your WordPress admin dashboard or directly on your blog main page.
-Plug-in provides possibility to monitor your site using Monitor.Us free monitoring services. You can use your existing Monitor.Us account or sign up for new account directly from plug-in settings page. Uptime and full page load monitors will be automatically created and placed on your website dashboard with default alert/notification settings. Checks will run every 30 minutes from locations in US and EU. Check results will be obtained from Monitor.Us by REST API http://www.monitor.us/api/api.html. You can also log-in to Monitor.Us dashboard to have a unified view on all monitored websites and to view/change alerts and notification settings. Plug-in will create a widget for each monitor type and Monitor.Us badge which you can make available for users on your blog main page.
+Check results will be obtained from Monitor.Us by [REST API](http://www.monitor.us/api/api.html?adv=13812&loc=1).
+
+About Monitor.Us
+Monitor.Us is the free version of Monitis, the leading provider of web and cloud monitoring solutions that include website monitoring, site load testing, transaction monitoring, application and database monitoring and server and internal network monitoring within one easy-to-use dashboard. Over 100,000 users worldwide have chosen Monitis as their provider of choice to increase uptime and user experience of their services and products. For more information please visit [www.monitis.com](http://monitis.com?adv=13812&loc=1)
 
 == Installation ==
+
+Installing your Monitor.Us Website Monitoring plug-in can easily be done in 3 steps:
 
 1. Upload and extract `monitorus-uptime-monitoring.zip` to the `/wp-content/plugins/` directory
 2. Activate the plug-in through the 'Plugins' menu in WordPress
