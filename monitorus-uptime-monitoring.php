@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Monitor.us uptime monitoring
 	Plugin URI: http://www.monitor.us?adv=13812&loc=1
-	Description: Free Website Monitoring plug-in from Monitor.Us – monitor your blog’s uptime and performance 24/7 and see results in a web-based dashboard.
+	Description: Free Website Monitoring plug-in from Monitor.Us enables you to monitor your blog so you know instantly if it down or running slowly and displays results from a web-based dashboard.
 	Version: 1.0
 	Author: MonitorUs	 
 	Author URI: http://www.monitor.us?adv=13812&loc=1
