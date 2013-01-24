@@ -1,6 +1,6 @@
 === Monitor.Us uptime monitoring ===
 
-Contributors: Monitor.us
+Contributors: monitor.us
 Donate link: 
 Tags: website monitoring, uptime monitoring, full page load monitoring
 Requires at least: 3.3
