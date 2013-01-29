@@ -9,7 +9,7 @@ var wpmuc = {
     {
         show_pass_field: function (){
             jQuery('#pass_link').remove();
-            jQuery('#pass_field').html('<input style="margin-left: 5px; margin-right: 1px; width: 250px; margin-top: 1px; margin-bottom: 1px;" type="password" name="settings[pass]" value="">');
+            jQuery('#pass_field').html('<input style="margin-left: 5px; margin-right: 1px; width: 250px; margin-top: 1px; margin-bottom: 1px;" type="password" name="settings[password]" value="">');
         },
 		
 		act: function(url){
